@@ -1,6 +1,8 @@
 # Sliding Puzzle
 
-The objective of this game is to slide the tiles around the board until their numbers are arranged from 1 to n - 1 in a top-to-bottom and left-to-right fashion. The player can choose how many tiles they want to be displayed in a row and column as well as the amount of spacing (in pixels) between rows and columns. 
+The objective of this game is to slide the tiles around the board until their numbers are arranged from 1 to n - 1 in a top-to-bottom and left-to-right fashion. 
+
+The player can choose the number of tiles to be displayed in a row and column as well as the amount of space (in pixels) to be displayed between rows and columns. 
 
 ## Features
 

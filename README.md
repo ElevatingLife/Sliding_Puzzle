@@ -10,7 +10,7 @@ The player can choose the number of tiles to be displayed in a row and column as
 - **Move Counter**: Displays the total number of moves the player has made in the current game in real-time.
 - **Background Color Changes**: When the mouse enters a tile, the background color of the tile changes to blue. And when the mouse exits the tile, the background color of the tile reverts to black.
 
-[![Sliding Puzzle]([https://img.youtube.com/vi/fTOhTq6Ovw8/0.jpg)](https://www.youtube.com/watch?v=fTOhTq6Ovw8))
+[![Sliding Puzzle]([https://img.youtube.com/vi/fTOhTq6Ovw8/maxresdefault.jpg)](https://www.youtube.com/watch?v=fTOhTq6Ovw8))
 
 ## Screenshots
 ![Screenshot 1](https://github.com/ElevatingLife/Sliding_Puzzle/assets/134762489/70b5cbb6-affc-45bd-b70b-ae072a583866)

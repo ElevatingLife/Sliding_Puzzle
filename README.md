@@ -4,13 +4,13 @@ The objective of this game is to slide the tiles around the board until their nu
 
 The player can choose the number of tiles to be displayed in a row and column as well as the amount of space (in pixels) to be displayed between rows and columns. 
 
+Click here for the YouTube video: https://www.youtube.com/watch?v=fTOhTq6Ovw8.
+
 ## Features
 
 - **Timer**: Displays the number of minutes and seconds the current game has been running in real-time. 
 - **Move Counter**: Displays the total number of moves the player has made in the current game in real-time.
 - **Background Color Changes**: When the mouse enters a tile, the background color of the tile changes to blue. And when the mouse exits the tile, the background color of the tile reverts to black.
-
-Click here for the YouTube video: https://www.youtube.com/watch?v=fTOhTq6Ovw8.
 
 ## Screenshots
 ![Screenshot 1](https://github.com/ElevatingLife/Sliding_Puzzle/assets/134762489/70b5cbb6-affc-45bd-b70b-ae072a583866)
